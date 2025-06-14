@@ -302,7 +302,7 @@ def main():
     st.markdown(
         """
         <div style="text-align: center; color: #666; margin-top: 2rem;">
-            <p> • Built with Streamlit • Timelytics v1.0</p>
+            <p> • Made by Meet Panchal • Timelytics v1.0</p>
             <p>🔒 Your data is secure and private</p>
         </div>
         """, 
